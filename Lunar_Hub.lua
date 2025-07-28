@@ -1,6 +1,6 @@
 -- Thanks to Speedhub X, For The Idea! -- Sorry for taking without perms
 
-local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/GameList.lua"))()
+local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/LunarXHub/Lunar-Hub/refs/heads/main/Games.lua"))()
 
 local URL = Games[game.PlaceId]
 
